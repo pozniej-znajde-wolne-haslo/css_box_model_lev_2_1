@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 500px;
+    border: 2px dotted rgb(164, 78, 216);
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+
+h2 {
+    width: 500px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid rgb(164, 78, 216);
+    border-radius: 15px;
+    box-shadow: 0 0 15px 1px #ba9cca;
+    
+}
+
+div {
+    width: 500px;
+    border: 2px solid rgb(164, 78, 216);
+    border-radius: 15px;
+    text-align: center;
+    padding: 3px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+h3 {
+    border: 2px solid rgb(164, 78, 216);
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+}
+
+p {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid rgb(221, 27, 27);
+    padding: 10px;
+}
+
+ol {
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px ridge rgba(121, 76, 71, 0.484);
+    padding: 10px;
+}
+
+ul {
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px ridge rgba(121, 76, 71, 0.484);
+    padding: 10px;
+}
+
+li {
+    margin-left: 40px;
+    border-bottom: 1px solid rgb(196, 48, 48);
+}
+
+
+
+
+
+
